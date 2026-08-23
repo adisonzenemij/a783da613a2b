@@ -47,6 +47,7 @@
           },
           "configurations": {
             "production": {
+              "outputPath": "a783da613a2b_prod",
               "budgets": [
                 {
                   "type": "initial",
@@ -62,6 +63,7 @@
               "outputHashing": "all"
             },
             "development": {
+              "outputPath": "a783da613a2b_test",
               "budgets": [
                 {
                   "type": "initial",
@@ -80,6 +82,7 @@
               ]
             },
             "staging": {
+              "outputPath": "a783da613a2b_stag",
               "budgets": [
                 {
                   "type": "initial",
