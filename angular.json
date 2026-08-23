@@ -63,7 +63,7 @@
               "outputHashing": "all"
             },
             "development": {
-              "outputPath": "dist/a783da613a2b_test",
+              "outputPath": "dist/a783da613a2b_dev",
               "budgets": [
                 {
                   "type": "initial",
